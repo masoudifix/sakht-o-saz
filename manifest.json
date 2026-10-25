@@ -1,0 +1,17 @@
+{
+  "name": "ساخت و ساز مربعی",
+  "short_name": "ساخت و ساز",
+  "description": "بازی ساخت و ساز مربعی - نویسنده بنیامین بگیان، مشاور بهراد بگیان",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#87ceeb",
+  "theme_color": "#87ceeb",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
